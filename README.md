@@ -7,4 +7,4 @@ My Spotify Clone app utilizes the Spotify Music Api, React, and Firebase. It all
 
 https://spotify-clone-app-1b53f.web.app/
 
-Spotify account is required. Future version will allow for public search adn play option. 
+Spotify account is required. Future version will allow for public search and play option. 
